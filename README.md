@@ -101,8 +101,6 @@ The Overview section provides a high-level snapshot of the job market and establ
 * Average Maximum Experience: **4.90 Years**
 * Average Skills per Job: **16**
 
-### Dashboard Screenshot
-
 ---
 
 # 02 — Company & Experience-Level Analysis
