@@ -39,6 +39,8 @@ Business Insights & Recommendations
 Analytical Report
 ```
 
+
+
 ---
 
 ## Dataset
@@ -101,10 +103,6 @@ The Overview section provides a high-level snapshot of the job market and establ
 
 ### Dashboard Screenshot
 
-> **Add Overview Dashboard Screenshot Here**
-
-`![Overview Dashboard](images/overview.png)`
-
 ---
 
 # 02 — Company & Experience-Level Analysis
@@ -163,12 +161,6 @@ This section explores hiring activity across companies and examines the distribu
 * AIESEC Cairo University — 3
 * Innovera for Education Technology — 3
 
-### Dashboard Screenshot
-
-> **Add Company & Experience Dashboard Screenshot Here**
-
-`![Company and Experience Analysis](images/company-experience.png)`
-
 ---
 
 # 03 — Geographic Distribution
@@ -193,11 +185,7 @@ This section analyzes where available jobs are geographically concentrated.
 * Other countries generally have between **2 and 4 jobs**.
 * Remote opportunities represent a very small share of the total market.
 
-### Dashboard Screenshot
 
-> **Add Geographic Analysis Screenshot Here**
-
-`![Geographic Distribution](images/geographic-distribution.png)`
 
 ---
 
@@ -233,9 +221,7 @@ Each category is examined through:
 
 Financial Analysis appears in approximately 46% of jobs in this category, while the category also has one of the highest average skill counts in the dataset.
 
-### Screenshot
 
-`![Accounting and Finance](images/accounting-finance.png)`
 
 ---
 
@@ -249,9 +235,7 @@ Financial Analysis appears in approximately 46% of jobs in this category, while 
 
 The category shows a relatively balanced demand between Experienced and Entry-Level positions.
 
-### Screenshot
 
-`![Administration](images/administration.png)`
 
 ---
 
@@ -264,9 +248,7 @@ The category shows a relatively balanced demand between Experienced and Entry-Le
 
 Entry-Level jobs represent the largest experience-level group in this category, with **76 jobs**.
 
-### Screenshot
 
-`![Customer Service](images/customer-service.png)`
 
 ---
 
@@ -280,9 +262,7 @@ Entry-Level jobs represent the largest experience-level group in this category, 
 
 Adobe Illustrator is the most frequently requested skill, appearing in **71 jobs**.
 
-### Screenshot
 
-`![Design and Creative](images/design-creative.png)`
 
 ---
 
@@ -296,9 +276,7 @@ Adobe Illustrator is the most frequently requested skill, appearing in **71 jobs
 
 Part-Time opportunities represent approximately **21%** of this category.
 
-### Screenshot
 
-`![Education](images/education.png)`
 
 ---
 
@@ -312,9 +290,6 @@ Part-Time opportunities represent approximately **21%** of this category.
 
 Mechanical Engineering, AutoCAD, and Microsoft Office are among the most requested skills.
 
-### Screenshot
-
-`![Engineering](images/engineering.png)`
 
 ---
 
@@ -328,9 +303,6 @@ Mechanical Engineering, AutoCAD, and Microsoft Office are among the most request
 
 Recruitment and Personnel represent the most frequently requested HR-related skills.
 
-### Screenshot
-
-`![Human Resources](images/human-resources.png)`
 
 ---
 
@@ -352,9 +324,6 @@ Top skills include:
 
 IT & Software is the largest category in the dataset and also contains the highest number of Work From Home opportunities, with **28 jobs**.
 
-### Screenshot
-
-`![IT and Software](images/it-software.png)`
 
 ---
 
@@ -368,9 +337,7 @@ IT & Software is the largest category in the dataset and also contains the highe
 
 Legal is the smallest category in the dataset and has relatively high experience requirements.
 
-### Screenshot
 
-`![Legal](images/legal.png)`
 
 ---
 
@@ -384,9 +351,7 @@ Legal is the smallest category in the dataset and has relatively high experience
 
 All **124 jobs** in this category are full-time positions.
 
-### Screenshot
 
-`![Logistics and Supply Chain](images/logistics-supply-chain.png)`
 
 ---
 
@@ -400,9 +365,7 @@ All **124 jobs** in this category are full-time positions.
 
 Manager-level positions account for **280 jobs**, making this category strongly concentrated around management roles.
 
-### Screenshot
 
-`![Management and Leadership](images/management-leadership.png)`
 
 ---
 
@@ -422,9 +385,6 @@ The most frequently requested skills include:
 * Writing/Editorial — 31
 * Digital Marketing — 9
 
-### Screenshot
-
-`![Marketing and Media](images/marketing-media.png)`
 
 ---
 
@@ -438,9 +398,6 @@ The most frequently requested skills include:
 
 Sales Target is the most frequently appearing skill, with **13 jobs**.
 
-### Screenshot
-
-`![Medical and Healthcare](images/medical-healthcare.png)`
 
 ---
 
@@ -454,9 +411,6 @@ The Other category represents approximately **13% of the market**, containing ro
 
 The size of this category highlights the importance of considering job-title classification when interpreting market data.
 
-### Screenshot
-
-`![Other Category](images/other.png)`
 
 ---
 
@@ -478,9 +432,6 @@ Top requested skills:
 
 The category contains **859 jobs**, representing approximately **20%** of the available postings in the dataset.
 
-### Screenshot
-
-`![Sales and Business Development](images/sales-business-development.png)`
 
 ---
 
@@ -567,10 +518,6 @@ Based on the analysis:
 
 ## Power BI Dashboard
 
-> **Add Power BI / Dashboard Link Here**
-
-`[Dashboard Link]`
-
 ---
 
 ## YouTube Demo
@@ -589,18 +536,13 @@ The full English analytical report containing the methodology, category analysis
 
 > **Add Google Drive Report Link Here**
 
-`[Google Drive Report Link]`
+[https://drive.google.com/file/d/1yajk_7Jizz4iHU6-AmYcSc87E5goOqjH/view?usp=sharing]
 
 ---
 
 # Dashboard Screenshots
 
-All dashboard screenshots will be stored inside the repository under:
-
-```text
-
-Suggested structure:
-
+All dashboard screenshots will be stored inside the repository 
 
 
 # Final Note
@@ -614,3 +556,13 @@ The project focuses on transforming job-posting data into practical insights abo
 **Power BI | Power Query | DAX | Data Analysis**
 
 September 2026
+
+<img width="1203" height="682" alt="image" src="https://github.com/user-attachments/assets/eccbb624-8e47-4062-b93e-3bdb0abd0099" />
+
+<img width="1203" height="640" alt="image" src="https://github.com/user-attachments/assets/3b260d84-5edc-48e0-9b25-35ddc8a6ac38" />
+
+<img width="1207" height="676" alt="image" src="https://github.com/user-attachments/assets/977f6f14-2f32-4284-aa22-d564ed434362" />
+
+<img width="1209" height="685" alt="image" src="https://github.com/user-attachments/assets/8fda4cae-8b3c-4722-b522-7d0acefe345b" />
+
+<img width="1203" height="684" alt="image" src="https://github.com/user-attachments/assets/42c0265e-5038-4d4f-ac39-c78e7ef04336" />
